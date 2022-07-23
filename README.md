@@ -45,6 +45,5 @@ Crack detection has vital importance for structural health monitoring and inspec
 **Conclusion**
 
 The accuracy scores and loss values obtained are as follow
-  
-  1. Test_Accuracy : 98.70 | Validation Accuracy : 99.86
-  2.Loss : 0.0056 | Validation loss : 0.0046
+  - Test_Accuracy : 98.70 | Validation Accuracy : 99.86
+  - Loss : 0.0056 | Validation loss : 0.0046
